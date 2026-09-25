@@ -102,7 +102,7 @@ questions = {
 }
 ```
 
-A full async fan-out implementation with retries, Pydantic response models, and a cost ledger is in [`examples/ticket-triage.py`](../examples/ticket-triage.py).
+A full async fan-out implementation with retries, Pydantic response models, and a cost ledger is in [`examples/ticket_triage.py`](../examples/ticket_triage.py).
 
 ## 5. Fraud and risk scoring
 
