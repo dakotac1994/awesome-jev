@@ -11,6 +11,8 @@ exclude = [
   "https://www.marktechpost.com/2026/09/23/a-coding-guide-to-typesafe-ai-jev/",
   # registry homepage 403s some bot traffic
   "https://www.npmjs.com",
+  # real page, but Product Hunt 403s automated checks
+  "https://www.producthunt.com/products/made-with-jev",
 ]
 
 max_retries = 3
