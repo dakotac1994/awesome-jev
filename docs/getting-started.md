@@ -104,7 +104,7 @@ This is the architecture Jev is designed for: Jev as the fast, cheap decision la
 
 ## 5. Go async for volume
 
-The Python SDK ships `AsyncTypeSafeClient` for concurrent fan-out, plus `RetryPolicy` and typed errors. A runnable example with retries, typed Pydantic response models, and a usage ledger is in [`../examples/ticket-triage.py`](../examples/ticket-triage.py).
+The Python SDK ships `AsyncTypeSafeClient` for concurrent fan-out, plus `RetryPolicy` and typed errors. A runnable example with retries, typed Pydantic response models, and a usage ledger is in [`../examples/ticket_triage.py`](../examples/ticket_triage.py).
 
 ## 6. Know the limits before you ship
 
