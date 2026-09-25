@@ -1,0 +1,12 @@
+# lychee link-check config
+# See https://github.com/lycheeverse/lychee
+
+exclude = [
+  # login-walled / bot-hostile
+  "https://www.linkedin.com.*",
+  "https://x.com.*",
+  # badge URLs are checked, but allowlist the dynamic ones is unnecessary; keep defaults
+]
+
+max_retries = 3
+timeout = 20
