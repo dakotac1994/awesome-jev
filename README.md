@@ -310,6 +310,7 @@ Jev itself is closed and hosted-only, but the tooling around it went open within
 ## Articles & Explainers
 
 ### Overviews
+- [Jev in the Wild: A Data-Driven Analysis of the Jev Model's Functionality, Applications and Ecosystem — Ling et al.](https://arxiv.org/abs/2609.30216) — Research survey of 2,170 public GitHub Jev projects, documenting early ecosystem growth, application domains, and decision-use patterns.
 - [What Is Jev? TypeSafe's System One Model Explained — KuCoin](https://www.kucoin.com/blog/what-is-jev-ai-typesafe-system-one-model-explained)
 - [What is Jev: TypeSafe AI's model that decides instead of writing — DEV](https://dev.to/devrchancay/what-is-jev-typesafe-ais-model-that-decides-instead-of-writing-1ndd)
 - [TypeSafe AI Jev: An AI model that doesn't generate text – and is 200x faster — DEV](https://dev.to/saaro_net/typesafe-ai-jev-an-ai-model-that-doesnt-generate-text-and-is-200x-faster-1ggo)
